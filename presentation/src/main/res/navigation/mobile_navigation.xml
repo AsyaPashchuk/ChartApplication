@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/navigation_week"
-        android:name="com.example.chartapplication.feature.week.WeekFragment"
+        android:name="com.example.chartapplication.feature.week.WeekChartFragment"
         android:label="@string/title_week"
         tools:layout="@layout/fragment_week" />
 
     <fragment
         android:id="@+id/navigation_month"
-        android:name="com.example.chartapplication.feature.month.MonthFragment"
+        android:name="com.example.chartapplication.feature.month.MonthChartFragment"
         android:label="@string/title_month"
         tools:layout="@layout/fragment_month" />
 
